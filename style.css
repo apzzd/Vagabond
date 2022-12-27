@@ -94,7 +94,7 @@ h2 {
 .container {
     display: block;
     max-width: 600px;
-    margin: 5 auto;
+    margin: 0 auto;
     padding: 20px;
     padding-top: 4em;
     padding-bottom: 4em;
